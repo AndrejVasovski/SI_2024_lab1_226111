@@ -1,0 +1,238 @@
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git init
+Initialized empty Git repository in C:/Users/Andrej/Desktop/Softevrsko/SI_2024_lab1_226111/.git/
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git remote add origin https://github.com/AndrejVasovski/SI_2024_lab1_226111.git
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git add
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git add --all
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+
+
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git commit -m "Initial commit"
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git config --global user.email "andrejvasvoski03@gmail.com"
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git config --global user.name "AndrejVasovski"
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git commit -m "Initial commit"
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git log
+
+
+    
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git add
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git add -all
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111>
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git add --all
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git commit -m "Add starter code"
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git show bracnh
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git show branch
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git show
+
+
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git push origin master
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git branch bug1
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git chekout
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git checkout
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git staus
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git checkout bug1
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git add --all
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git commit -m "Fix wrong"
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git revenge
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git help
+
+
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git commit --amend -m "Fix wrong condition in filterOddLengthStrings"
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git log
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git checkout master
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git branch bug2
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git checkout bug2
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git log
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git add --all
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git commit -m "Fix wrong condition in makeBigStringFrom"
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git checkout bug1
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git add --all
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git commit -m "Call method filterOddLengthStrings in main class"
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git checkout bug2
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git add --all
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git commit -m "Call method makeBigStringFrom in main class"
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git push
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git push origin
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git push bug1
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git checkout bug1
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git push bug1
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git push origin bug1
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git push origin bug2
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git push origin master
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git checkout master
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git merge bug1
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git log
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git show
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git branch -a
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git push --all origin
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git checkout bug2
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git rebase master
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git add --all
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git rebase --continue
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git checkout master
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git checkout bug1
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git push --all origin
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git push origin master
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git push origin bug1
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git push origin bug2
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git push origin bug2 --force
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git status
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git checkout bug2
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git checkout master
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git merge bug2
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git push origin --all
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git checkout master
+
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git log
+commit 84f556c26a6d15dbb13cc9774f12d9b719c753e1 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: AndrejVasovski <andrejvasvoski03@gmail.com>
+Date:   Sun Apr 7 17:50:27 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 60d24e65f71b9640bfa784df3b0428085f3e70c8
+Author: AndrejVasovski <andrejvasvoski03@gmail.com>
+Date:   Sun Apr 7 17:44:13 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit e651438fa7b22d0f97daf723f0f78f5389978fa2 (origin/bug1, bug1)
+Author: AndrejVasovski <andrejvasvoski03@gmail.com>
+Date:   Sun Apr 7 17:47:13 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit ec430b1edfaafa8a627859ab13cd35b4bf06f09d
+Author: AndrejVasovski <andrejvasvoski03@gmail.com>
+Date:   Sun Apr 7 17:35:45 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit ffa00654172c61798484f7934284f0feee80d215
+Author: AndrejVasovski <andrejvasvoski03@gmail.com>
+Date:   Sun Apr 7 17:19:29 2024 +0200
+
+    Add starter code
+
+commit 98d80ac8f9e885ad3afc65804374a691e164201b
+Author: AndrejVasovski <andrejvasvoski03@gmail.com>
+Date:   Sun Apr 7 17:13:43 2024 +0200
+
+    Initial commit
+(END)

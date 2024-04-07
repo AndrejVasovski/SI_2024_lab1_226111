@@ -1,0 +1,71 @@
+PS C:\Users\Andrej\Desktop\Softevrsko\SI_2024_lab1_226111> git log
+commit 84f556c26a6d15dbb13cc9774f12d9b719c753e1 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: AndrejVasovski <andrejvasvoski03@gmail.com>
+Date:   Sun Apr 7 17:50:27 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 60d24e65f71b9640bfa784df3b0428085f3e70c8
+Author: AndrejVasovski <andrejvasvoski03@gmail.com>
+Date:   Sun Apr 7 17:44:13 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit e651438fa7b22d0f97daf723f0f78f5389978fa2 (origin/bug1, bug1)
+Author: AndrejVasovski <andrejvasvoski03@gmail.com>
+Date:   Sun Apr 7 17:47:13 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit ec430b1edfaafa8a627859ab13cd35b4bf06f09d
+Author: AndrejVasovski <andrejvasvoski03@gmail.com>
+Date:   Sun Apr 7 17:35:45 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit ffa00654172c61798484f7934284f0feee80d215
+Author: AndrejVasovski <andrejvasvoski03@gmail.com>
+Date:   Sun Apr 7 17:19:29 2024 +0200
+
+    Add starter code
+
+commit 98d80ac8f9e885ad3afc65804374a691e164201b
+Author: AndrejVasovski <andrejvasvoski03@gmail.com>
+Date:   Sun Apr 7 17:13:43 2024 +0200
+
+    Initial commit
+(END)[33mcommit 84f556c26a6d15dbb13cc9774f12d9b719c753e1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/bug2[m[33m, [m[1;32mbug2[m[33m)[m
+Author: AndrejVasovski <andrejvasvoski03@gmail.com>
+Date:   Sun Apr 7 17:50:27 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+[33mcommit 60d24e65f71b9640bfa784df3b0428085f3e70c8[m
+Author: AndrejVasovski <andrejvasvoski03@gmail.com>
+Date:   Sun Apr 7 17:44:13 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+[33mcommit e651438fa7b22d0f97daf723f0f78f5389978fa2[m[33m ([m[1;31morigin/bug1[m[33m, [m[1;32mbug1[m[33m)[m
+Author: AndrejVasovski <andrejvasvoski03@gmail.com>
+Date:   Sun Apr 7 17:47:13 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+[33mcommit ec430b1edfaafa8a627859ab13cd35b4bf06f09d[m
+Author: AndrejVasovski <andrejvasvoski03@gmail.com>
+Date:   Sun Apr 7 17:35:45 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+[33mcommit ffa00654172c61798484f7934284f0feee80d215[m
+Author: AndrejVasovski <andrejvasvoski03@gmail.com>
+Date:   Sun Apr 7 17:19:29 2024 +0200
+
+    Add starter code
+
+[33mcommit 98d80ac8f9e885ad3afc65804374a691e164201b[m
+Author: AndrejVasovski <andrejvasvoski03@gmail.com>
+Date:   Sun Apr 7 17:13:43 2024 +0200
+
+    Initial commit
